@@ -1,0 +1,56 @@
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.csproj.AssemblyReference.cache
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian_Restaurant.Form1.resources
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.csproj.GenerateResource.cache
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.AssemblyInfoInputs.cache
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.AssemblyInfo.cs
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.csproj.CoreCompileInputs.cache
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\Italian Restaurant.exe
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\Italian Restaurant.deps.json
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\Italian Restaurant.runtimeconfig.json
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\Italian Restaurant.dll
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\Italian Restaurant.pdb
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.csproj.CopyComplete
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.dll
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\refint\Italian Restaurant.dll
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.pdb
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.genruntimeconfig.cache
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\ref\Italian Restaurant.dll
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian_Restaurant.Form2.resources
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian_Restaurant.Form3.resources
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian_Restaurant.Form4.resources
+D:\Additional Projects\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian_Restaurant.Form5.resources
+H:\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\Italian Restaurant.exe
+H:\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\Italian Restaurant.deps.json
+H:\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\Italian Restaurant.runtimeconfig.json
+H:\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\Italian Restaurant.dll
+H:\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\Italian Restaurant.pdb
+H:\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+H:\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+H:\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+H:\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+H:\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Italian Restaurant\Italian Restaurant\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.csproj.AssemblyReference.cache
+H:\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian_Restaurant.Form1.resources
+H:\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian_Restaurant.Form2.resources
+H:\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian_Restaurant.Form3.resources
+H:\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian_Restaurant.Form4.resources
+H:\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian_Restaurant.Form5.resources
+H:\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.csproj.GenerateResource.cache
+H:\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+H:\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.AssemblyInfoInputs.cache
+H:\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.AssemblyInfo.cs
+H:\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.csproj.CoreCompileInputs.cache
+H:\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.csproj.CopyComplete
+H:\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.dll
+H:\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\refint\Italian Restaurant.dll
+H:\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.pdb
+H:\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\Italian Restaurant.genruntimeconfig.cache
+H:\Italian Restaurant\Italian Restaurant\obj\Debug\net6.0-windows\ref\Italian Restaurant.dll
